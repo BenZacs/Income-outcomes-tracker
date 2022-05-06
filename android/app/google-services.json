@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918419546040",
+    "project_id": "incomeexpensetracker-75c21",
+    "storage_bucket": "incomeexpensetracker-75c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918419546040:android:6b10dcf60aa3ebf05db94d",
+        "android_client_info": {
+          "package_name": "com.example.income_expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918419546040-b7b7jv733m8bkbh45k82vc3ifhefdqi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGQueUU9D9Sv6OLOgq2GhmdIdoenUW3MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918419546040-b7b7jv733m8bkbh45k82vc3ifhefdqi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
